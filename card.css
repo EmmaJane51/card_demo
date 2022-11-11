@@ -33,6 +33,7 @@ h2 {
     width: 100px;
     border-radius: 50%;
     margin-top: -50px;
+    align: center;
 }
 
 .contacts {
